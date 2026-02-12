@@ -1,6 +1,6 @@
 > [Please consider to contribute to the new Boost Note app too!](https://github.com/BoostIO/BoostNote.next)
 
-# Contributing to Boostnote (English)
+# Contributing to BoostNote (English)
 
 ### When you open an issue or a bug report
 There is an issue template for you to follow. Please provide as much information as you can according to the template.
@@ -25,17 +25,17 @@ npm run lint
 
 By making a pull request you agree to transfer ownership of your code to BoostIO.
 
-This doesn't mean Boostnote will become a paid app. If we want to earn money, we will find other way. Potentially some kind of cloud storage, mobile app integration, or some premium features.
+This doesn't mean BoostNote will become a paid app. If we want to earn money, we will find other way. Potentially some kind of cloud storage, mobile app integration, or some premium features.
 GPL v3 is too strict to be compatible with another license, so we thought it might be necessary to replace the license with a more open one (like BSD, MIT) eventually.
 
 ---
 
-# Contributing to Boostnote (Russian)
+# Contributing to BoostNote (Russian)
 
 ### Когда у вас появляется сообщение об ошибке
 У нас нет шаблона, по которому вы должны описать ошибку. Просто расскажите, как вы получили ее
 
-**Вставьте скриншот Boostnote с открытым инструментом разработчика (dev tools)**
+**Вставьте скриншот BoostNote с открытым инструментом разработчика (dev tools)**
 
 Благодарим Вас за помощь!
 
@@ -43,12 +43,12 @@ GPL v3 is too strict to be compatible with another license, so we thought it mig
 
 Если вы делаете pull request, значит вы согласны передать авторские права на изменения кода в BoostIO.
 
-Это не означает, что Boostnote станет платным приложением. Если мы захотим заработать немного денег, мы найдем другой способ. Например, использование облачного хранилища, интеграцией мобильных приложений или другими специальными функциями.
+Это не означает, что BoostNote станет платным приложением. Если мы захотим заработать немного денег, мы найдем другой способ. Например, использование облачного хранилища, интеграцией мобильных приложений или другими специальными функциями.
 Так как лицензия GPL v3 слишком строгая, чтобы быть совместимой с любой другой лицензией, мы думаем, что нужно заменить лицензию на более свободную (например, BSD, MIT).
 
 ---
 
-# Contributing to Boostnote (Korean)
+# Contributing to BoostNote (Korean)
 
 ### 이슈 또는 버그 리포트를 제출하는 절차
 이슈를 제기할 때에 사용하는 양식(issue template)이 준비되어 있으니, 해당 양식에 맞추어 최대한 구체적인 정보를 첨부하여 주시기 바랍니다.
@@ -73,12 +73,12 @@ npm run lint
 
 당신이 pull request를 요청하면, 코드 변경에 대한 저작권을 BoostIO에 양도한다는 것에 동의한다는 의미입니다.
 
-이것은 Boostnote가 유료화가 되는 것을 의미하는 건 아닙니다. 만약 우리가 자금이 필요하다면, 우리는 클라우드 연동, 모바일 앱 통합 혹은 특수한 기능 같은 것을 사용해 수입 창출을 시도할 것입니다.
+이것은 BoostNote가 유료화가 되는 것을 의미하는 건 아닙니다. 만약 우리가 자금이 필요하다면, 우리는 클라우드 연동, 모바일 앱 통합 혹은 특수한 기능 같은 것을 사용해 수입 창출을 시도할 것입니다.
 GPL v3 라이센스는 다른 라이센스와 혼합해 사용하기엔 너무 엄격하므로, 우리는 BSD, MIT 라이센스와 같은 더 자유로운 라이센스로 교체하는 것을 생각하고 있습니다.
 
 ---
 
-# Contributing to Boostnote (Japanese)
+# Contributing to BoostNote (Japanese)
 
 ### バグレポートに関してのissueを立てる時
 イシューテンプレートがあります。このテンプレートに従って、できるだけ多くの情報を提供してください。
@@ -104,13 +104,13 @@ npm run lint
 Pull requestをすることはその変化分のコードの著作権をBoostIOに譲渡することに同意することになります。
 
 アプリケーションのLicenseをいつでも変える選択肢を残したいと思うからです。
-これはいずれかBoostnoteが有料の商用アプリになる可能性がある話ではありません。
-もし、このアプリケーションに料金が発生する時は、Boostnote専用のCloud storageの提供やMobile appとの連動、何か特殊なプレミアム機能の提供など形になります。
+これはいずれかBoostNoteが有料の商用アプリになる可能性がある話ではありません。
+もし、このアプリケーションに料金が発生する時は、BoostNote専用のCloud storageの提供やMobile appとの連動、何か特殊なプレミアム機能の提供など形になります。
 現在考えられているのは、GPL v3の場合、他のライセンスとの互換が不可能であるため、もしより自由なLicense(BSD, MIT)に変える時に改めて著作権者としてライセンスし直す選択肢を残すイメージです。
 
 ---
 
-# Contributing to Boostnote (Simplified Chinese)
+# Contributing to BoostNote (Simplified Chinese)
 
 ### 当您创建一个issue的时候
 我们对您的issue格式没有要求，但是我们有一个请求：
@@ -123,17 +123,17 @@ Pull requestをすることはその変化分のコードの著作権をBoostIO�
 ### 关于您提供的Pull Request的著作权（版权）问题
 如果您提供了一个Pull Request，这表示您将您所修改的代码的著作权移交给BoostIO。
 
-这并不表示Boostnote会成为一个需要付费的软件。如果我们想获得收益，我们会尝试一些其他的方法，比如说云存储、绑定手机软件等。
+这并不表示BoostNote会成为一个需要付费的软件。如果我们想获得收益，我们会尝试一些其他的方法，比如说云存储、绑定手机软件等。
 因为GPLv3过于严格，不能和其他的一些协议兼容，所以我们有可能在将来会把BoostNote的协议改为一些较为宽松的协议，比如说BSD、MIT。
 
 ---
 
-# Contributing to Boostnote (Français)
+# Contributing to BoostNote (Français)
 
 ### Lorsque vous signalez un problème ou un bug
 Il n'y a pas de modèle pour un signaler problème. Mais nous vous demandons :
 
-**Merci de founir une capture d'écran de Boostnote avec l'outil de développement ouvert**
+**Merci de founir une capture d'écran de BoostNote avec l'outil de développement ouvert**
 (vous pouvez l'ouvrir avec `Ctrl+Shift+I`)
 
 Merci en avance pour votre aide.
@@ -142,5 +142,5 @@ Merci en avance pour votre aide.
 
 Si vous faites une requête, vous acceptez de transmettre les modifications du code à BoostIO.
 
-Cela ne veut pas dire que Boostnote deviendra une application payante. Si nous voulons gagner de l'argent, nous trouverons un autre moyen, comme un service de sauvegarde sur le Cloud, une application mobile ou des options payantes.
+Cela ne veut pas dire que BoostNote deviendra une application payante. Si nous voulons gagner de l'argent, nous trouverons un autre moyen, comme un service de sauvegarde sur le Cloud, une application mobile ou des options payantes.
 Puisque GPL v3 est trop strict pour être compatible avec n'importe quelle autre licence, nous pensons avoir un jour besoin de la remplacer avec une licence bien plus libre (comme BSD, MIT).
